@@ -1,0 +1,22 @@
+# Data & outputs
+data/
+outputs/
+checkpoints/
+renders/
+*.ckpt
+*.pth
+*.pt
+*.ply
+*.exr
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+conda/
